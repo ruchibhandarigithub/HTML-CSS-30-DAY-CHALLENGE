@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+}
+.resume-container{
+    margin: 20px;
+    border: 2px solid rgb(72,149,180);
+}
+.header-section{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin:10px 40px;
+}
+ h1,h2{
+    color:rgb(72, 149, 180)
+}
+.header-section li{
+    list-style: none;
+
+}
+
+hr{
+    padding:1px;
+    background-color:rgb(72, 149, 180)
+
+}
